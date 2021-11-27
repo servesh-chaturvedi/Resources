@@ -1,6 +1,6 @@
 
 ## CSS Reset
-
+[Link to source](https://www.joshwcomeau.com/css/custom-css-reset/)
 ```css
 
 *, *::before, *::after {
